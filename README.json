@@ -1,15 +1,35 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T23:34:26.521Z",
+    "last_updated": "2026-08-29T04:34:23.584Z",
     "original_repository_info": {
       "archived": false,
+      "description": "آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه )",
+      "homepage": "https://barnamenevisi.io/free-resource",
       "id": 631987275,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-04T16:03:46Z",
+      "open_issues": 5,
       "owner": "barnamenevisi",
       "repo": "free-resources",
-      "stars": 1252
+      "stars": 1252,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "farsi",
+        "free",
+        "iran",
+        "iranian",
+        "java",
+        "javascript",
+        "learn",
+        "learning",
+        "list",
+        "persian",
+        "python",
+        "resources"
+      ]
     },
     "original_repository_sha": "4c0dbd2b45461f5ecfce4c2eef58423ac0a12eaa",
     "enhanced_repository": "enhansome/enhansome-free-resources",
