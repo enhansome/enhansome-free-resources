@@ -83,7 +83,7 @@
 
 2 . [کد تمیز در پایتون](https://github.com/ftg-iran/clean-code-python) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-03-24 : (2) راهنمای نوشتن کد تمیز در پایتون
 
-3 . [استفاده از Asyncio در پایتون](https://github.com/ftg-iran/aip-persian) ⭐ 96 | 🐛 2 | 🌐 Python | 📅 2024-06-12 : استفاده از Asyncio در پایتون و درک ویژگی‌های asynchronous در پایتون
+3 . [استفاده از Asyncio در پایتون](https://github.com/ftg-iran/aip-persian) ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2024-06-12 : استفاده از Asyncio در پایتون و درک ویژگی‌های asynchronous در پایتون
 
 4 . [کتاب آموزش آزاد پایتون](https://python.coderz.ir/index.html) : این کتاب تلاشی است برای آموزش زبان برنامه‌نویسی پایتون (Python) بر پایه‌ پیاده‌سازی استاندارد آن (CPython)، به زبانی ساده و روان که بتواند برای افرادی که تاکنون پیشینه برنامه‌نویسی نداشته‌اند نیز کاربردی و مفید باشد. مطالعه این کتاب نیازی به پیش‌زمینه برنامه‌نویسی ندارد و تنها پیش‌نیاز آن علاقه خوانندگان به فن برنامه‌نویسی است.
 
@@ -630,4 +630,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
