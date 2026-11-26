@@ -80,7 +80,7 @@
 
 ### پایتون
 
-1 . [کد تمیز در پایتون](https://github.com/SepehrRasouli/clean-code-python) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2023-03-22 : (1) راهنمای نوشتن کد تمیز در پایتون
+1 . [کد تمیز در پایتون](https://github.com/SepehrRasouli/clean-code-python) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2023-03-22 : (1) راهنمای نوشتن کد تمیز در پایتون
 
 2 . [کد تمیز در پایتون](https://github.com/ftg-iran/clean-code-python) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-03-24 : (2) راهنمای نوشتن کد تمیز در پایتون
 
@@ -104,7 +104,7 @@
 
 ### جاوااسکریپت
 
-1 . [کد تمیز در جاوااسکریپت](https://github.com/SepehrRasouli/clean-code-python) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2023-03-22 : راهنمای نوشتن کد تمیز در جاوااسکریپت
+1 . [کد تمیز در جاوااسکریپت](https://github.com/SepehrRasouli/clean-code-python) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2023-03-22 : راهنمای نوشتن کد تمیز در جاوااسکریپت
 
 2 . [جاوااسکریپت شیوا](https://eloquentjs.ir/) : این کتاب درباره‌ی جاوااسکریپت، برنامه‌نویسی و شگفتی‌های دنیای دیجیتال است. می‌توانید این کتاب را همینجا آنلاین مطالعه کنید.
 
@@ -637,4 +637,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
